@@ -1,5 +1,5 @@
 {
-    "name": "sails-hook-publisher",
+    "name": "@emxdigital/sails-hook-publisher",
     "version": "0.2.1",
     "description": "Kue based job publisher(producer) for sails",
     "main": "index.js",
